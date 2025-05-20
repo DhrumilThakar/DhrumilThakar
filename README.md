@@ -8,6 +8,13 @@ Hi, I'm Dhrumil Thakar! 👋
 - 🛠️ Skills: Python, Django, Java, SQLite, HTML/CSS, JavaScript
 - ⚡ Fun fact: I love designing and solving real-life problems with code!
 
+### 📂 Featured Projects
+- 🔐 [Secure Chat App](https://github.com/DhrumilThakar/secure-chat-python): End-to-end encrypted chat built in Python
+- 🎓 [EduHub](https://github.com/DhrumilThakar/eduhub): Online education platform with class and material management
+- 👨‍🏫 [Face Recognition Attendance System](https://github.com/DhrumilThakar/face-recognition-attendance): Automated attendance using OpenCV and facial recognition
+- ⌨️ [Typing Speed Test](https://github.com/DhrumilThakar/typing-speed-test): Java Swing GUI application to measure typing speed and accuracy
+- 💰 [Expense Sharing App](https://github.com/DhrumilThakar/expense-sharing-django): Group expense manager with real-time balance calculation
+
 ### 📫 Connect with me
 - [LinkedIn](www.linkedin.com/in/dhrumil-thakar-69113b292)
 - [Instagram](https://www.instagram.com/dhruvmilthakar/)
