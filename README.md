@@ -11,3 +11,5 @@ Hi, I'm Dhrumil Thakar! 👋
 ### 📫 Connect with me
 - [LinkedIn](www.linkedin.com/in/dhrumil-thakar-69113b292)
 - [Instagram](https://www.instagram.com/dhruvmilthakar/)
+
+![Dhrumil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhrumilThakar&show_icons=true&theme=tokyonight)
