@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhrumilthakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrumilthakar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhrumil thakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrumil thakar" height="30" width="40" /></a>
+<a href="https://x.com/DhruvmilThakar?t=QkFX6zMIPqRGJ9pFrhlwUA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrumilthakar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhrumil-thakar-69113b292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrumil thakar" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruvmilthakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvmilthakar" height="30" width="40" /></a>
 </p>
 
