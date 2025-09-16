@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhrumil Thakar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin & Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dhrumilthakar.github.io/Portfolio/)
 
