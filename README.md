@@ -9,59 +9,92 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🌱 Currently learning **Kotlin & Cloud Computing**
-- 💻 Mainly working with **Java, Kotlin, Python, Android, and Jupyter**
+- 💻 Mainly working with **Java, Kotlin, Python, Android**
 - 🎯 Goal: Build strong software projects and crack top placements
 - 👨‍💻 All my projects: **https://dhrumilthakar.github.io/Portfolio/**
 - 📫 Reach me at: **dhruvmilthakar@gmail.com**
 
 ---
 
-## 🧠 Core Skills
+# 🧠 Core Skills
 
-- **Programming Languages:** Java, Kotlin, Python  
-- **Mobile Development:** Android  
-- **Data & Notebooks:** Jupyter  
-- **Web & Backend (working knowledge):** HTML, CSS, JavaScript, Django, Node.js  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** Git, GitHub, IntelliJ, VS Code  
+**Programming Languages**
+- Java  
+- Kotlin  
+- Python  
+
+**Mobile Development**
+- Android  
+
+**Web & Backend**
+- HTML  
+- CSS  
+- JavaScript  
+- Django  
+- Node.js  
+
+**Databases**
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+**Tools**
+- Git  
+- GitHub  
+- IntelliJ  
+- VS Code  
+- Jupyter Notebook  
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/DhruvmilThakar?t=QkFX6zMIPqRGJ9pFrhlwUA&s=09" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhrumil-thakar-69113b292" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dhruvmilthakar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dhrumilthakar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhrumilthakar&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
----
-
-## 🔥 GitHub Streak
+# 🏆 LeetCode
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrumilthakar&cache_seconds=86400" alt="GitHub Streak" />
+  <a href="https://leetcode.com/u/O9izUxV4gP/" target="Dhrumil Thakar">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" width="250"/>
+  </a>
+</p>
+
+# 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://x.com/DhruvmilThakar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhrumil-thakar-69113b292" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/dhruvmilthakar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+<br/>
+<h2 align="center">⚡ Current Statistics ⚡</h2>
+<br>
+
+<div align=center>
+
+  <img width=390 src="https://streak-stats.demolab.com/?user=dhrumilthakar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dhrumilthakar&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilthakar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+
+</div>
+
+<br/>
 
 ---
 
