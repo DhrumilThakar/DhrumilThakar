@@ -62,6 +62,9 @@
   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" width="250"/>
   </a>
+   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250"/>
+  </a>
 </p>
 
 # 🤝 Connect with Me
