@@ -19,34 +19,15 @@
 
 ---
 
-# 🧠 Core Skills
+# 🧠 Core Skills  
 
-**Programming Languages**
-- Java  
-- Kotlin  
-- Python  
-
-**Mobile Development**
-- Android  
-
-**Web & Backend**
-- HTML  
-- CSS  
-- JavaScript  
-- Django  
-- Node.js  
-
-**Databases**
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-
-**Tools**
-- Git  
-- GitHub  
-- IntelliJ  
-- VS Code  
-- Jupyter Notebook  
+| Domain                | Technologies & Tools                        |
+|----------------------|--------------------------------------------|
+| **Languages**         | Java • Kotlin • Python                    |
+| **Mobile**            | Android (XML, Kotlin)                     |
+| **Backend/Web**       | Django • Node.js • HTML • CSS • JavaScript |
+| **Databases**         | MySQL • PostgreSQL • MongoDB              |
+| **Developer Tools**   | Git • GitHub • IntelliJ IDEA • VS Code • Jupyter |
 
 ---
 
@@ -66,6 +47,8 @@
     <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250"/>
   </a>
 </p>
+
+---
 
 # 🤝 Connect with Me
 
