@@ -46,6 +46,9 @@
    <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250"/>
   </a>
+  <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="250"/>
+  </a>
 </p>
 
 ---
@@ -63,24 +66,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
-
----
-
-<br/>
-<h2 align="center">⚡ Current Statistics ⚡</h2>
-<br>
-
-<div align=center>
-
-  <img width=390 src="https://streak-stats.demolab.com/?user=dhrumilthakar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dhrumilthakar&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilthakar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-
-</div>
-
-<br/>
 
 ---
 
