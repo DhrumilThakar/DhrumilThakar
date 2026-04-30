@@ -33,21 +33,26 @@
 
 # 🏆 LeetCode
 
+<!-- LeetCode Profile Badge -->
 <p align="center">
-  <a href="https://leetcode.com/u/O9izUxV4gP/" target="Dhrumil Thakar">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Dhrumil%20Thakar-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
+<!-- LeetCode Achievements / Animations -->
 <p align="center">
   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" width="250"/>
-  </a>
-   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="250"/>
+    <img src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" width="220" />
   </a>
   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="250"/>
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="220" />
+  </a>
+  <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="220" />
+  </a>
+  <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="220" />
   </a>
 </p>
 
