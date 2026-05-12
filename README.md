@@ -54,6 +54,9 @@
   <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="220" />
   </a>
+  <a href="https://leetcode.com/u/dhrumilthakar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="220" />
+  </a>
 </p>
 
 ---
