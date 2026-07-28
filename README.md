@@ -11,7 +11,7 @@
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Kotlin & Cloud Computing**
+- 🌱 Currently learning **C# & PostgreSQL**
 - 💻 Mainly working with **Java, Kotlin, Python, Android**
 - 🎯 Goal: Build strong software projects and crack top placements
 - 👨‍💻 All my projects: **https://dhrumilthakar.github.io/Portfolio/**
